@@ -250,3 +250,11 @@ while True:
         print("Pilihan tidak valid. Silakan coba lagi.")
 ```
 Untuk bagian utama dari program, yang menyediakan menu interaktif untuk memilih tindakan yang ingin dilakukan : `(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar`
+
+Code Program Tersebut:
+
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/5f5a6fba20ef4240594ce28ab696dbf6e181c74d/Image/input%20nilai.png)
+
+Hasil Program Tersebut:
+
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/5f5a6fba20ef4240594ce28ab696dbf6e181c74d/Image/Screenshot%202024-11-16%20055659.png)
