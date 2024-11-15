@@ -43,6 +43,10 @@ for nama, nomor in kontak.items():
     print(f"{nama}: {nomor}")
 ```
 
-# Code Program Tersebut
+Code Program Tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/ba663d79556ed69b8e9cfe1f8930f9b06acb8c3a/Image/code.png)
+
+Hasil Program Tersebut:
+
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/d29b778dcc226aa7413e57cd1645937e9b99e605/Image/Screenshot%202024-11-15%20104406.png)
