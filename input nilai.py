@@ -1,4 +1,3 @@
-# Program Input Nilai
 data_nilai = []
 
 def lihat_data():
