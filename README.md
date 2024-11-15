@@ -45,3 +45,4 @@ for nama, nomor in kontak.items():
 
 # Code Program Tersebut
 
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/ba663d79556ed69b8e9cfe1f8930f9b06acb8c3a/Image/code.png)
