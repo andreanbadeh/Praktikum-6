@@ -261,4 +261,4 @@ Hasil Program Tersebut:
 
 Dan ini flowchart nya: 
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/81e5771410bde2b6c21cc6833660d905de991a9a/Image/Screenshot%202024-11-18%20214323.png)
+![gambar](https://github.com/andreanbadeh/Praktikum-6/blob/c27e65a41e2a035601a0bb03bcc111ce5223fadd/Image/Screenshot%202024-11-18%20214837.png)
